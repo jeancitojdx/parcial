@@ -1,0 +1,188 @@
+#principal{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+}
+header{
+	width: 900px;
+	height: 100px;
+	border: 0px solid #000;
+}
+#cuerpo{
+	background-image: url(mario.jpg);
+	margin: auto;
+
+}
+footer{
+	color: #FFFFFF;
+}
+#kha{
+
+	background-image: url(hg.jpg);
+	background-size: 100%;
+}
+.titulo{
+	margin-top: 25px;
+	font-size: 30px;
+	color: #FFFF00;
+}
+.sub-titulo{
+	font-size: 14px;
+	margin-top: -20px;
+	color: #33CCCC;
+}
+#logo{
+	width: 200px;
+	height: 100px;
+	border: 0px solid #000;
+	float: left;
+}
+.Menu{
+	width: 490px;
+	height: 40px;
+	border: 1px solid #ccc;
+	float: right;
+	margin-top: 40px;
+	background: #006699;
+}
+.Menu ul{
+}
+.Menu ul li{
+	list-style: none;
+	float: left;
+}
+.Menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #ccc;
+	color: #fff;
+}
+.Menu ul li a:hover{
+
+	color: #FFF033;
+}
+#slide{
+	margin-top: -5px;
+	width: 900px;
+	height: 250px;
+}
+#categorias{
+	width: 900px;
+	height: auto;overflow: hidden;
+	border: 0px solid;
+	margin-top: 15px;
+color: #FF00FF;
+}
+#gaaa{
+	background-image: url(razer.jpg);
+	background-size: 100%;
+}
+
+.img{
+	margin-right: 7px;
+	margin-bottom: 7px;
+}
+#cu{
+	color: #339999;
+	text-align: center;
+}
+.uno{
+	width: 280px;
+	height: auto;overflow: hidden;
+	border: 1px solid;
+	float: left;
+	padding: 5px;
+	text-align: center;
+}
+.dos{
+	margin-left: 12px;
+	margin-right: 12px;
+
+}
+#info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #c0c0c0;
+	margin-top: 10px;
+}
+#izq{
+	width: 585px;
+	height: auto;overflow: hidden;
+	border: 1px solid #FF00FF;;
+	float:left; 
+	padding: 5px;
+	color: #FF00FF;
+}
+#der{
+	width: 250px;
+	height: 300px;
+	border: 0px solid #ccc;
+	float: right;
+}
+#footer{
+	width: 900px;
+	height: 100px;
+	text-align: center;
+}
+.cul{
+	background-image: url(foto.jpg);
+	background-size: 180vw 100vh;
+	background-attachment: fixed;
+	margin: 0;
+}
+#alt{
+	width: 458px;
+	margin: auto;
+	box-sizing: border-box;
+	padding: 10px 28px;
+	margin-top: 20px;
+	border-radius: 7px;
+
+}
+#contac{
+	text-align: center;
+	margin: 0;
+	color: #fff;
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+input,textarea{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px,
+	box-sizing:border-box;
+	font-size: 17px;
+}
+textarea{
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 180px;
+
+}
+#pan{
+	text-align: center;
+	color: #339999;
+
+}
+#nana{
+	color: #FFFFFF;
+}
+#servi{
+	background-image: url(Gamer.jpg);
+	background-size: 100%;
+}
+#co{
+	color: #FFFFFF;
+	text-align: center;
+}
+#sil{
+	width: 200px;
+	height: 100px;
+	float:left; 
+	padding: 5px;
+
+}
+#ulti{
+	color: #FFFF00;
+}
